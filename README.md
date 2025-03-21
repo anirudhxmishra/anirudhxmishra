@@ -1,8 +1,7 @@
 # **Hola Amigos 👋, I'm Anirudh Mishra**  
-# 🚀 **MERN Stack | ML | Full Stack Developer**  
 
+### 🚀 **MERN Stack | ML | Full Stack Developer**  
 🎓 **B.Tech CSE | Shri Mata Vaishno Devi University**  
-
 🌱 **Learning:** Backend development & AI/ML integration  
 👯 **Looking to collaborate on:** MERN stack, ML, and full-stack projects  
 💬 **Ask me about:** Web development, AI/ML, and system design  
