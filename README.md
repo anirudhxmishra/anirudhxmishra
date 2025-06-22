@@ -5,7 +5,6 @@
 🌱 **Learning:** Backend development & AI/ML integration  
 👯 **Looking to collaborate on:** MERN stack, ML, and full-stack projects  
 💬 **Ask me about:** Web development, AI/ML, and system design  
-⚡ **Fun fact:** I love solving complex problems and optimizing solutions!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudhxmishra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-mishra-b84363256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhmishra112233@gmail.com) 
