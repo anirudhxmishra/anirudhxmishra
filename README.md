@@ -3,7 +3,7 @@
 ### 🚀 **MERN Stack | ML | Full Stack Developer**  
 🎓 **B.Tech CSE | Shri Mata Vaishno Devi University**  
 🌱 **Learning:** Backend development & AI/ML integration  
-👯 **Looking to collaborate on:** MERN stack, ML, and full-stack projects  
+👯 **Looking to collaborate on:** Full-Stack Web Development + ML Project and Research. 
 💬 **Ask me about:** Web development, AI/ML, and system design  
 
 ## 🌐 Socials:
