@@ -110,13 +110,6 @@ When I'm not coding, you'll find me contributing to open source, exploring cutti
 
 ---
 
-## 💡 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
 ## 🤝 Let's Collaborate
 
 I'm always excited to work on:
