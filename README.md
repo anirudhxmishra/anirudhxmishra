@@ -88,28 +88,6 @@ I enjoy solving backend engineering problems, designing RESTful APIs, working wi
 
 ---
 
-## 💡 Featured Projects
-
-### 1. Employee Project Allocation Portal
-
-**C# • ASP.NET Core Web API • Entity Framework Core • SQL Server**
-
-A company-focused portal designed to manage trained employees awaiting project allocation, including employee, skill and project management.
-
-### 2. SwipeHire
-
-**React • TypeScript • Node.js • AI Integration**
-
-An AI-powered recruitment platform designed to improve the candidate-job matching experience.
-
-### 3. E-Commerce Application
-
-**React • ASP.NET Core Web API • SQL Server**
-
-A full-stack e-commerce application with product management, user authentication and shopping workflows.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
